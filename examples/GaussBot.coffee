@@ -1,7 +1,7 @@
 _ = require 'lodash'
 Telegram = require '..'
 
-tg = new Telegram(process.env.TELEGRAM_BOT_TOKEN)
+tg = new Telegram(process.env.87368010:AAHj0e0fyoeE0OaI6bGoBiOaMdkPaI1xOf4)
 #tg.socksProxy = { host: "127.0.0.1", port: "36000" }
 
 sessions = {}
